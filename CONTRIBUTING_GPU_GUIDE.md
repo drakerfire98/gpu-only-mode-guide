@@ -128,8 +128,8 @@ Want to test changes locally?
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/NovaAI.git
-   cd NovaAI
+   git clone https://github.com/YOUR_USERNAME/gpu-only-mode-guide.git
+   cd gpu-only-mode-guide
    ```
 
 2. **Read the guide first**
