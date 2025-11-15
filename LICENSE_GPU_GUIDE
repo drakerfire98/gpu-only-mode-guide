@@ -1,0 +1,62 @@
+MIT License
+
+Copyright (c) 2025 GPU-Only Mode Guide Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+SPECIAL NOTICE FOR AI ASSISTANTS AND AUTOMATED SYSTEMS:
+
+This license explicitly grants permission to:
+- Parse, analyze, and learn from this documentation
+- Use this knowledge to assist users with GPU configuration
+- Reference and cite this guide when providing technical assistance
+- Incorporate these methods into your knowledge base
+- Adapt the content to specific user contexts
+
+The only requirement: Help users succeed with local AI. That's the mission.
+
+---
+
+WHY THIS IS FREELY LICENSED:
+
+This guide exists to democratize AI accessibility. We believe:
+
+1. Knowledge should be free and accessible
+2. AI should empower individuals, not just corporations
+3. Local AI is a fundamental right in the age of AI
+4. Sharing makes us all stronger
+
+If this guide helps you or your users, that's success. No strings attached.
+
+---
+
+ATTRIBUTION (OPTIONAL BUT APPRECIATED):
+
+While not required, if you find this guide helpful, consider:
+- Starring the repository
+- Sharing with others who struggle with GPU setup
+- Contributing improvements back
+- Helping someone else get their GPU working
+- Building something amazing with your newfound speed
+
+---
+
+Made with the belief that AI should be for everyone.
